@@ -25,9 +25,12 @@ No manual budgeting. No extra steps. Income arrives already structured.
 ## Problem
 
 Freelancers in Africa face:
-- Slow settlement times  
-- High transaction fees  
-- No structured way to manage income  
+- Slow settlement (2–5 days)
+- High transaction fees (5–15%)
+- No structured way to manage income
+
+Result:
+Even when income is global, financial management remains manual, fragmented, and inefficient.
 
 ---
 
@@ -37,7 +40,18 @@ Finora Pay bridges global payments with structured financial behavior:
 
 - Receive USDC instantly  
 - Automatically allocate income  
-- Access local liquidity through P2P  
+- Access local liquidity through P2P
+  
+
+---
+
+## Why It Matters
+
+Stablecoins solve how money moves.
+
+Finora Pay solves what happens after money arrives.
+
+By automating financial structure at the point of income, users build discipline, savings, and long-term wealth without extra effort.
 
 ---
 
@@ -65,4 +79,4 @@ https://finorapay.netlify.app
 
 ## Vision
 
-Finora Pay transforms income into structured financial behavior for Africa’s global workforce.
+Finora Pay aims to become the financial operating system for Africa’s global workforce—where income is not just received, but intelligently structured for growth.

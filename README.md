@@ -107,7 +107,7 @@ Designed for:
 ## Live Demo
 
 👉 https://finorapay.netlify.app
-(Test the full flow: Receive → Auto-split → Swap → P2P)
+- (Test the full flow: Receive → Auto-split → Swap → P2P)
 
 ---
 

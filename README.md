@@ -6,7 +6,7 @@ Finora Pay is a programmable income wallet designed for African freelancers to r
 
 ## Core Innovation: Smart Income Routing (SIR)
 
-Finora Pay introduces Smart Income Routing — a system that automatically splits every incoming payment into:
+Finora Pay introduces Smart Income Routing - a system that automatically splits every incoming payment into:
 
 - Spend Wallet  
 - Save Vault  
@@ -55,7 +55,7 @@ Instead of manually splitting income, users get:
 - Built-in savings discipline
 - Continuous wealth accumulation
 
-Income becomes structured by default — not by effort.
+Income becomes structured by default not by effort.
 
 
 ---

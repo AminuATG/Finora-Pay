@@ -114,4 +114,4 @@ Designed for:
 
 ## Vision
 
-Finora Pay aims to become the financial operating system for Africa’s global workforce—where income is not just received, but intelligently structured for growth.
+Finora Pay aims to become the financial operating system for Africa’s global workforce where income is not just received, but intelligently structured for growth.

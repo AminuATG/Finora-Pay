@@ -57,7 +57,17 @@ By automating financial structure at the point of income, users build discipline
 
 ## Product Preview
 
-(Add screenshots below after upload)
+### Dashboard (Smart Income Routing)
+![Dashboard](./dashboard.png)
+
+### Swap USDC → NGN
+![Swap](./swap.png)
+
+### Swap Confirmation
+![Swap Complete](./swap-complete.png)
+
+### P2P Trading
+![P2P](./p2p.png)
 
 ---
 

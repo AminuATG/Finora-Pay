@@ -82,13 +82,32 @@ Income becomes structured by default — not by effort.
 - Smart Income Routing (auto split)  
 - Spend / Save / Invest balances  
 - P2P trading interface  
-- Simulated withdrawal  
+- Simulated withdrawal
+
+---
+
+## Tech Stack
+
+- Solana (fast, low-cost transactions)
+- USDC (stable global payments)
+- Frontend: Web app (Netlify)
+- P2P module with escrow logic (simulated)
+
+---
+
+## Use Case
+
+Designed for:
+- Freelancers earning globally
+- Remote workers paid in crypto
+- African users needing local liquidity (NGN)
 
 ---
 
 ## Live Demo
 
 👉 https://finorapay.netlify.app
+(Test the full flow: Receive → Auto-split → Swap → P2P)
 
 ---
 

@@ -10,13 +10,13 @@ Finora Pay introduces Smart Income Routing - a system that automatically splits 
 
 - Spend Wallet  
 - Save Vault  
-- Invest Pool  
+- Grow Pool  
 
 Example:  
 $100 received  
 → $70 Spend  
 → $20 Save  
-→ $10 Invest  
+→ $10 Grow 
 
 No manual budgeting. No extra steps. Income arrives already structured.
 
